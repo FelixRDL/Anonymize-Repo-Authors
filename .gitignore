@@ -1,0 +1,7 @@
+node_modules/*
+authors.aliased.json
+authors.idd.json
+authors.json
+dupes.json
+repos.txt
+repos/*
