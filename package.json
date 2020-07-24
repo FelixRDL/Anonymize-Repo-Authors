@@ -1,10 +1,13 @@
 {
-  "name": "prepare",
+  "name": "anonym-repo-authors",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bin/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lsauthors": "node lib/anon.js -- lsauthors",
+    "clean": "node lib/anon.js -- clean",
+    "anonymize": "node lib/anon.js -- anonymize",
+    "aliasize": "node lib/anon.js -- aliasize"
   },
   "author": "",
   "license": "ISC",
