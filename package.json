@@ -7,6 +7,7 @@
     "lsauthors": "node lib/anon.js -- lsauthors",
     "clean": "node lib/anon.js -- clean",
     "anonymize": "node lib/anon.js -- anonymize",
+    "anonymize-test": "node lib/anon.js -- anonymize-test",
     "aliasize": "node lib/anon.js -- aliasize"
   },
   "author": "",

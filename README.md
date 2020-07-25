@@ -14,5 +14,7 @@ names!
 by replacing the E-Mail Address with a number
     - Look out for duplicate entries in `dupes.json`
 - Run `npm run aliasize` to create `authors.aliased.json`
-- 
+- Run `npm run anonymize` to anonymize pulled repositories with alias file
+- Now you can push the altered repositories to an empty repository
+- The End!
     
