@@ -16,7 +16,7 @@
     "find-in-files": "^0.5.0",
     "glob": "^7.1.6",
     "rimraf": "^3.0.2",
-    "simple-git": "^2.15.0",
+    "simple-git": "^3.15.0",
     "unique-names-generator": "^4.3.0"
   }
 }
